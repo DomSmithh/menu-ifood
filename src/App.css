@@ -42,7 +42,12 @@ button {
 }
 
 .conteiner {
+  
   display: flex;
-  flex-wrap: wrap;
-  width: 575px;
+  flex-direction: center;
+  
+  align-items: center;
+
+  width: 1200px;
+  height: 50px;
 }
